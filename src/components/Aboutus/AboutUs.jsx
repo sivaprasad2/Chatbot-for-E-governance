@@ -9,7 +9,7 @@ function AboutUs() {
       <h1>Our Team</h1>
       <div className="cards">
         <div className="card">
-          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' />
+          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' alt='profile'/>
           <div className="details">
             <span> <b>Siva Prasad L</b></span>
             <span> 20191EEE0045</span>
@@ -18,7 +18,7 @@ function AboutUs() {
           </div>
         </div>
         <div className="card">
-          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' />
+          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' alt='profile'/>
           <div className="details">
             <span> <b>Sharan S Nair</b> </span>
             <span> 20191ECE0395</span>
@@ -27,7 +27,7 @@ function AboutUs() {
           </div>
         </div>
         <div className="card">
-          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' />
+          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' alt='profile'/>
           <div className="details">
             <span><b> Siddarth R</b></span>
             <span> 20191CSE0571</span>
@@ -36,7 +36,7 @@ function AboutUs() {
           </div>
         </div>
         <div className="card">
-          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' />
+          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' alt='profile'/>
           <div className="details">
             <span><b> Shivam Kumar</b></span>
             <span> 20191CSE0809</span>
@@ -45,7 +45,7 @@ function AboutUs() {
           </div>
         </div>
         <div className="card">
-          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' />
+          <img src='https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png' alt='profile'/>
           <div className="details">
             <span><b> SUBBARA RAHUL </b></span>
             <span> 20191COM0197</span>
