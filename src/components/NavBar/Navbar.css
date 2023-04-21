@@ -8,25 +8,20 @@ img{
     color: white;
     background-color: black;
     display:flex;
-    /* justify-content: ; */
     align-items: center;
     text-decoration: none;
-    /* margin: 20px; */
 }
 .navbar-element{
 
     color: white;
     text-decoration: none;
     cursor: pointer;
-    padding: 10px;
-
-    
+    padding: 10px;    
 }
 .icon{
     margin-right: 30px;
     justify-content: space-between;
     padding: 10px;
-
 }
 Link{
     margin-right: 30px;

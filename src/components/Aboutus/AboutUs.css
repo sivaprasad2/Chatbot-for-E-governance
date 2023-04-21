@@ -1,3 +1,12 @@
+.cards{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    margin-top: 30px;
+    border: 1px;
+}
 .card{
     height: 250px;
     width: 180px;
@@ -11,20 +20,12 @@
     align-items: center;
     
 }
-.cards{
-    height: 250px;
-    width: 100%;
-    display: flex;
-    justify-content: center;
-    margin-top: 30px;
-    border: 1px;
-}
 .container{
     margin: 30px 10%;
     border: 1px;
-
+    padding-bottom: 25vh;
 }
-p{
+.container p{
     margin: 20px;
 }
 img{
@@ -42,22 +43,12 @@ img{
     display: flex;
     flex-direction: column;
     align-items: center;
-    border: 1px ;
     text-align: center;
-    text-size-adjust: 10px;
 }
-span{
+.details span{
    font-size: small;
-   font:  normal;
    color: white;
-   text-size-adjust: 10px;
    margin: 2px;
 
 }
-b{
-    font-size:small;
-    font:  normal;
-   align-items: end;
-   justify-content: center;
-   margin: 10px;
-}
+
